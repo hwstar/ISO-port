@@ -38,11 +38,6 @@ This board was designed using KICAD.
 
 5cm x 5cm
 
-**Board Blank Availability**
-
-Board blanks are available on Tindie:
-
-https://www.tindie.com/products/hwstarsr/board-blank-for-iso-port
 
 **LICENSE**
 
